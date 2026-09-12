@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Data files: ignore everything under data/ except the small committed sample.
+data/*
+!data/sample.csv
